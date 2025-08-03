@@ -17,5 +17,3 @@ TLDR: Install `thonny` pip package, connect Badger to system, use Thonny IDE to 
 Simple project utilizing button reads, text, partial updates, and the LED on the Badger 2040.
 
 ![led test image](./images/badger_ledtest.jpg)
-
-Not sure what's up with the camera.
